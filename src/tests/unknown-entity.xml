@@ -1,0 +1,20 @@
+<root>
+   <cars>
+      <honda>
+         <civic>adf&nbsp; adfal
+         </civic>
+         <accord>
+         </accord>
+      </honda>
+      <ford>
+         <mustang>
+         </mustang>
+         <gt>
+         </gt>
+      </ford>
+      <toyota>
+         <supra>
+         </supra>
+      </toyota>
+   </cars>
+</root>
